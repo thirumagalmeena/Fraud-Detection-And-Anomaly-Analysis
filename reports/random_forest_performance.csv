@@ -1,0 +1,2 @@
+accuracy,precision,recall,f1_score,roc_auc,avg_precision,optimal_threshold,n_estimators,max_depth,max_features
+0.9994501986379115,0.8105263157894737,0.8555555555555555,0.8324324324324325,0.994406153408889,0.8165316159236122,0.5,100,10,0.3
