@@ -1,0 +1,2 @@
+eps,min_samples,accuracy,precision,recall,f1_score,n_clusters,n_noise,noise_percent,true_positives,false_positives
+3.0,30,0.9109209060790726,0.015479511256040546,0.8794642857142857,0.03042353577081966,19,25453,9.028511836775232,394,25059
